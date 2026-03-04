@@ -1,6 +1,6 @@
 # Générateur de Messages Syslog
 
-Un outil web PHP pour composer et envoyer des messages au format Syslog (RFC 3164) vers un serveur Syslog distant via UDP.
+Un outil web PHP pour composer et envoyer des messages au format Syslog (RFC 3164) vers un serveur Syslog distant via UDP ou TCP.
 
 ## 📋 Prérequis
 
@@ -248,3 +248,4 @@ Pour toute question ou problème :
 **Version** : 1.0  
 **Date** : Mars 2026  
 **Technologies** : PHP, Bootstrap 5, Bootstrap Icons
+
